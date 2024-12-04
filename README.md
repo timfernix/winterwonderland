@@ -18,6 +18,8 @@ Visit the Modpacks page here: [timfernix.github.io/winterwonderland](https://tim
 
 | Version | Changes made |
 | -------- | ------- |
+| v1.4.0 | Added structure & furniture mods |
+| v1.3.1 | Replaced Physics Mod Pro version by the standard one to reduce lag |
 | v1.3.0 | Created Repo and Website |
 | v1.2.2 | Modified Client/Server config |
 | v1.2.1 | Upgraded Physics mod to Pro version |
