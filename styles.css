@@ -1,6 +1,15 @@
+@font-face {
+    font-family: TextFont;
+    src: url(./font/Heal_The_World.ttf);
+}
+@font-face {
+    font-family: ButtonFont;
+    src: url(./font/SNOW\ BLUE.ttf);
+}
+
 body {
     margin: 0;
-    font-family: Arial, sans-serif;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background-color: #1a1a1a; 
     color: #ffffff; 
     background-image: url('wallpaper.jpg'); 
@@ -37,7 +46,12 @@ p {
     margin-top: 30px;
 }
 
+.descText {
+    font-family: textFont;
+}
+
 .button {
+    font-family: ButtonFont;
     display: inline-block;
     background-color: #4CAF50; 
     color: white;
