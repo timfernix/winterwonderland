@@ -5,7 +5,7 @@
 Welcome to Winter Wonderlands, a Minecraft modpack that brings the joy of winter to your gameplay experience. Explore snowy landscapes, build cozy cabins, and survive the cold while decorating for Christmas with new items!
 
 ## How to Join & Downloads
-Visit the Modpacks page here: timfernix.github.io/winterwonderland
+Visit the Modpacks page here: [timfernix.github.io/winterwonderland](timfernix.github.io/winterwonderland)
 
 ## Credits
 
