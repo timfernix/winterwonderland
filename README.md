@@ -1,5 +1,5 @@
 # Winter Wonderlands Modpack
-**Experience the Magic of Endless Winter**
+**Experience the Magic of Endless Winter** <br>
 ![](logo.png)
 
 Welcome to Winter Wonderlands, a Minecraft modpack that brings the joy of winter to your gameplay experience. Explore snowy landscapes, build cozy cabins, and survive the cold while decorating for Christmas with new items!
