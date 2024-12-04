@@ -6,7 +6,7 @@
 Welcome to Winter Wonderlands, a Minecraft modpack that brings the joy of winter to your gameplay experience. Explore snowy landscapes, build cozy cabins, and survive the cold while decorating for Christmas with new items!
 
 ## How to Join & Downloads
-Visit the Modpacks page here: [timfernix.github.io/winterwonderland](https://timfernix.github.io/winterwonderland/)
+Visit the Modpacks page here: [timfernix.github.io/winterwonderlands](https://timfernix.github.io/winterwonderlands/)
 
 ## Credits
 
@@ -18,6 +18,7 @@ Visit the Modpacks page here: [timfernix.github.io/winterwonderland](https://tim
 
 | Version | Changes made |
 | -------- | ------- |
+| v1.4.1 | Added config to modpack file, updated client & server mods and updated repo |
 | v1.4.0 | Added structure & furniture mods |
 | v1.3.1 | Replaced Physics Mod Pro version by the standard one to reduce lag |
 | v1.3.0 | Created Repo and Website |
@@ -27,4 +28,4 @@ Visit the Modpacks page here: [timfernix.github.io/winterwonderland](https://tim
 | v1.1.0 | Updated Minecraft to 1.21.1 |
 | v1.0.0 | Collected base mods for the pack (incl. Primal Winter) |
 
-Enjoy your winter wonderland experience!
+Enjoy your winter wonderlands experience!
