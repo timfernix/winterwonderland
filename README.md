@@ -1,9 +1,9 @@
 # Winter Wonderlands Modpack <br>
 ![](logo.png) <br>
 
-**Experience the Magic of Endless Winter** 
+**Content** 
 
-Welcome to Winter Wonderlands, a Minecraft modpack that brings the joy of winter to your gameplay experience. Explore snowy landscapes, build cozy cabins, and survive the cold while decorating for Christmas with new items!
+Experience the magic of a seemingly endless winter in Winter Wonderlands. Step into a cozy, snow-covered world where it's always winter! The Winter Wonderlands Modpack transforms Minecraft into a magical paradise of endless snowfall, festive decorations, and seasonal charm. Decorate with Christmas trees, glowing lights, and cozy furnishings to create the ultimate holiday atmosphere Explore snowy landscapes, frozen lakes, and frosty forests, all blanketed in a serene winter wonderland. Warm up by the fire, decorate with comfy furniture and other relaxing winter-themed additions. With quality-of-life improvements and some other extras, this modpack brings the magic of winter to your Minecraft adventures!
 
 ## How to Join & Downloads
 Visit the Modpacks page here: [timfernix.github.io/winterwonderlands](https://timfernix.github.io/winterwonderlands/)
@@ -18,6 +18,7 @@ Visit the Modpacks page here: [timfernix.github.io/winterwonderlands](https://ti
 
 | Version | Changes made |
 | -------- | ------- |
+| v1.5.0 | Updated mods, added description, further optimized performance & added more crops |
 | v1.4.1 | Added config to modpack file, updated client & server mods and updated repo |
 | v1.4.0 | Added structure & furniture mods |
 | v1.3.1 | Replaced Physics Mod Pro version by the standard one to reduce lag |
