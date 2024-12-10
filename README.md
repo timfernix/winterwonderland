@@ -14,6 +14,9 @@ Visit the Modpacks page here: [timfernix.github.io/winterwonderlands](https://ti
 - Thanks to [LonelyKatarina](https://x.com/LonelyKatarina) & [Twodi](https://x.com/Twodi6) for testing and
 - All mod authors on modrinth for providing their mods.
 
+### Modlist 
+You can find a modlist [here](https://timfernix.github.io/winterwonderlands/mods.html).
+
 ## Changelog
 
 | Version | Changes made |
