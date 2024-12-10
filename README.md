@@ -18,8 +18,9 @@ Visit the Modpacks page here: [timfernix.github.io/winterwonderlands](https://ti
 
 | Version | Changes made |
 | -------- | ------- |
+| v1.5.4 | Updated mods, optimized server chunk load and rendering, added modlist to repo |
 | v1.5.3 | Server-side additions: Styled chat and playerlist, fixed advancements, updated page |
-| v1.5.1/2 | Removed Custom Elytras, Included Capes, Updates Libraries, Further config |
+| v1.5.1/2 | Removed custom rlytras, included capes, updates libraries, further config |
 | v1.5.0 | Updated mods, added description, further optimized performance & added more crops |
 | v1.4.1 | Added config to modpack file, updated client & server mods and updated repo |
 | v1.4.0 | Added structure & furniture mods |
